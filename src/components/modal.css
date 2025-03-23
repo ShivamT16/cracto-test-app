@@ -1,0 +1,16 @@
+.modal-main{
+    width: 20rem;
+    padding: 1.5rem;
+    text-align: left;
+    font-weight: 500;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+.modal-btn{
+    color: white;
+    border: 1px solid purple;
+    border-radius: .2rem;
+    background-color: purple;
+    padding: .5rem 1rem;
+    font-weight: 700;
+    width: 100%;
+}

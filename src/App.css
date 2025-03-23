@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   margin: 1rem 5rem;
+  position: relative;
 }
 
 .section-main{
@@ -27,4 +28,10 @@
 }
 .icons{
   height: 3rem;
+}
+
+.Modal{
+  position: absolute;
+  right: 0;
+  top: 1;
 }
