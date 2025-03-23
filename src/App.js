@@ -1,7 +1,9 @@
 import './App.css';
 import Body from './components/Body';
 import Header from './components/Header';
+import { Icons } from './components/Icons';
 import Notification from './components/Notification';
+import WatchVideoSection from './components/WatchVideoSection';
 
 function App() {
   return (
@@ -9,6 +11,8 @@ function App() {
       <Header />
       <Notification />
       <Body />
+      <Icons />
+      <WatchVideoSection />
     </div>
   );
 }
