@@ -1,0 +1,47 @@
+.header-main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0rem 2rem;
+}
+
+.header-left{
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+}
+.slack-logo{
+    height: 2rem;
+}
+.header-link{
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    padding-top: 4px;
+}
+
+.header-right{
+    width: 40%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.search-logo{
+    height: 1rem;
+}
+.sales-btn{
+    color: purple;
+    border: 1px solid purple;
+    border-radius: .2rem;
+    background-color: white;
+    padding: .5rem 1rem;
+    font-weight: 700;
+}
+.free-btn{
+    color: white;
+    border: 1px solid purple;
+    border-radius: .2rem;
+    background-color: purple;
+    padding: .5rem 1rem;
+    font-weight: 700;
+}

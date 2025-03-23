@@ -1,0 +1,50 @@
+.body-main{
+    display: flex;
+    gap: 5rem;
+    text-align: left;
+    margin: 1rem 3rem;
+}
+
+.body-left{
+    width: 40%;
+}
+.body-heading{
+    font-size: 3rem;
+    font-weight: 700;
+    line-height: 3rem;
+}
+.body-para{
+    padding-right: 4rem;
+    margin-top: -1rem;
+}
+.body-free-btn{
+    color: white;
+    border: none;
+    border-radius: .2rem;
+    background-color: purple;
+    padding: .8rem 1.5rem;
+    font-weight: 700;
+}
+.google-btn{
+    background-color: rgb(52, 190, 236);
+    color: white;
+    border: none;
+    border-radius: .2rem;
+    padding: .2rem 1rem 0.2rem .2rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+}
+.google-icon{
+    height: 2rem;
+    border-radius: .2rem;
+}
+.action-btn{
+    display: flex;
+    gap: 1rem;
+    margin: 2rem 0rem;
+}
+.body-image{
+    width: 50%;
+}
